@@ -3,7 +3,7 @@
 
 const TRADING_CONFIG = {
     // 初始资金配置
-    initialAssetValue: 478,        // 初始钱包余额 (USDT)
+    initialAssetValue: 1000,        // 初始钱包余额 (USDT)
     initialAssetValueCurrency: 'USDT',
 
     // 跟单日期配置
